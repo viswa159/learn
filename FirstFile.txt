@@ -3,5 +3,4 @@ I have learned Java Basics
 I have learned Modified
 I have learned Servlet and JSP
 I have learned Spring
-I have added in Test Branch
 I adding a new line in Test Branch
